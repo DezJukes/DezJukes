@@ -1,7 +1,5 @@
 ### Hi there 👋
-Welcome to this repository.
-
-This is basically my profile or info
+Welcome to my profile! Feel free to explore and give me some ideas to make.
 
 - 🌱 I’m currently learning Phyton
 - 📫 How to reach me: jbryandc08@gmail.com
