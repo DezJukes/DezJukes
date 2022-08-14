@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my profile! Feel free to explore and give me some ideas to make.
 
-- 🌱 I’m currently learning Phyton
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: jbryandc08@gmail.com
 - ⚡ Fun fact: The programming language I learned are C, C++, Java, HTML & CSS, JavaScript, and PHP.
 <!--
