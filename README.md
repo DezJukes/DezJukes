@@ -1,9 +1,9 @@
 ### Hi there 👋
 Welcome to my profile! Feel free to explore and give me some ideas to make.
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: jbryandc08@gmail.com
-- ⚡ Fun fact: The programming language I learned are C, C++, Java, HTML & CSS, JavaScript, and PHP.
+- ⚡ Fun fact: The programming language I learned are C, C++, Java, HTML & CSS, and PHP.
 <!--
 **DezJukes/DezJukes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
