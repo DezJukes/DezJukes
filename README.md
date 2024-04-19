@@ -3,7 +3,7 @@ Welcome to my profile! Feel free to explore and give me some ideas to make.
 
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: jbryandc08@gmail.com
-- ⚡ Fun fact: The programming languages I have encountered are C, C++, Java, HTML & CSS, and PHP.
+- ⚡ Fun fact: The programming languages I have encountered are C, C++, Java, Kotlin.
 <!--
 **DezJukes/DezJukes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
