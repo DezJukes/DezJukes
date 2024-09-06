@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my profile! Feel free to explore and give me some ideas to make.
 
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Ruby
 - 📫 How to reach me: jbryandc08@gmail.com
 - ⚡ Fun fact: The programming languages I have used so far are C, C++, Java, Javascript, Kotlin, Assembly Language.
 
