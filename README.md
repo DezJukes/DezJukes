@@ -19,11 +19,9 @@ Welcome to my profile! Feel free to explore and give me some ideas to make.
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DezJukes&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DezJukes&theme=midnight-purple&hide_border=true" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DezJukes&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</div>
+  <img align=left src="https://github-readme-stats.vercel.app/api?username=DezJukes&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=DezJukes&theme=midnight-purple&hide_border=true" alt="GitHub Streak Stats" />
+  <img alight=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=DezJukes&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dezjukes&label=Visitors&color=5e4ecd&style=flat" alt="dezjukes" /> </p>
 <!--
