@@ -18,11 +18,12 @@ Welcome to my profile! Feel free to explore and give me some ideas to make.
 
 
 ## 📊 GitHub Stats:
-
+<p align="center">
   <img width=400 src="https://github-readme-stats.vercel.app/api?username=DezJukes&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" /><img width=440 src="https://github-readme-streak-stats.herokuapp.com/?user=DezJukes&theme=midnight-purple&hide_border=true" alt="GitHub Streak Stats" />
-  <img align=center width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DezJukes&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  
+  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DezJukes&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dezjukes&label=Visitors&color=5e4ecd&style=flat" alt="dezjukes" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=dezjukes&label=Visitors&color=5e4ecd&style=flat" alt="dezjukes" /> </p>
 <!--
 **DezJukes/DezJukes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
