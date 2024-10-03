@@ -4,7 +4,7 @@
 <table align=center>
   <tr>
     <td width=50%>
-      Welcome to my profile! Feel free to explore and give me some ideas to make.
+      <h3>Welcome to my profile! Feel free to explore and give me some ideas to make.</h3>
       
 - 🌱 I’m currently learning Ruby
     </td>
