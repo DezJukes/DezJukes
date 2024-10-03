@@ -1,12 +1,12 @@
-### Hi there 👋
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=DezJukes%20&width=1000&height=150)](https://github.com/Akshay090/svg-banners)
+# Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 Welcome to my profile! Feel free to explore and give me some ideas to make.
 
 - 🌱 I’m currently learning Ruby
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jbryandc08@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnbryanpdelacruz/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jbryandc08@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Radioactiveness/)
-
 
 ## 💻 Languages and Tools
 <p align="center">
